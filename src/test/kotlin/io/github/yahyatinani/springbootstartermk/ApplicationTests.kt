@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class MainApplicationTests {
+class ApplicationTests {
   @Test
   fun nothing() {
     assert(1 + 1 == 2)
