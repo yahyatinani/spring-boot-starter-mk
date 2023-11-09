@@ -75,6 +75,11 @@
       <artifactId>spring-library</artifactId>
       <version>${project.version}</version>
     </dependency>
+    <dependency>
+      <groupId>io.github.yahyatinani</groupId>
+      <artifactId>library</artifactId>
+      <version>${project.version}</version>
+    </dependency>
   </dependencies>
 
   <build>

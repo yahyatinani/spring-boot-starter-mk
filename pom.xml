@@ -12,6 +12,7 @@
   <modules>
     <module>app</module>
     <module>spring-library</module>
+    <module>library</module>
   </modules>
 
 </project>
