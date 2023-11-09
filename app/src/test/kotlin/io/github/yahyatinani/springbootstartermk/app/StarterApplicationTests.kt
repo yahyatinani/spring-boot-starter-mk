@@ -1,4 +1,4 @@
-package io.github.yahyatinani.springbootstartermk
+package io.github.yahyatinani.springbootstartermk.app
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

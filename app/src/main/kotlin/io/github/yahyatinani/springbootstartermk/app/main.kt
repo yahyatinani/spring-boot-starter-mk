@@ -1,4 +1,4 @@
-package io.github.yahyatinani.springbootstartermk
+package io.github.yahyatinani.springbootstartermk.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
